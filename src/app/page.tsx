@@ -6,7 +6,7 @@ import Welcome from "@/components/Welcome";
 const products = [
   {
     emoji: "🌧️",
-    name: "輕透防水雨衣",
+    name: "輕透防水特製雨衣",
     desc: "透氣防水布料，四腳包覆設計，雨天散步也能保持乾爽。附反光條，夜間更安全。",
     price: "NT$ 890 起",
     tags: ["防水透氣", "夜間反光", "S–XL 尺寸"],
